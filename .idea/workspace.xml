@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccf54bb9-861d-4d96-9146-e228e87a407d" name="Default Changelist" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 113b3ca6" />
+    <list default="true" id="ccf54bb9-861d-4d96-9146-e228e87a407d" name="Default Changelist" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 113b3ca6">
+      <change afterPath="$PROJECT_DIR$/projects/2021/tictactoe/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/2021/tictactoe/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/2021/tictactoe/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/2021/tictactoe/tictactoe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,16 +41,19 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1s8k8likz0KRRHNU9V0x0RvEZRx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projects/2021/tictactoe/runner.py" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -63,7 +72,7 @@
       <recent name="C:\Users\jjc26\OneDrive\Documents\Python\AI_Lecture_1\Degrees" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.tictactoe">
     <configuration name="degrees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ai50" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,6 +95,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tictactoe" type="PythonConfigurationType" factoryName="Python">
+      <module name="ai50" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jjc26\OneDrive\Documents\mu_code\CSC 120\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projects/2021/tictactoe" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projects/2021/tictactoe/runner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.tictactoe" />
+      <item itemvalue="Python.degrees" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.degrees" />
@@ -102,7 +137,8 @@
       <updated>1620261446795</updated>
       <workItem from="1620261476691" duration="771000" />
       <workItem from="1620262345306" duration="10604000" />
-      <workItem from="1620280921720" duration="649000" />
+      <workItem from="1620280921720" duration="2073000" />
+      <workItem from="1620364789951" duration="5219000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 113b3ca6">
       <created>1620266598430</created>
@@ -118,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620268811345</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 113b3ca6">
+      <created>1620346144544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620346144545</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,11 +192,19 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 113b3ca6" />
     <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 113b3ca6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/projects/2021/tictactoe/tictactoe.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -165,5 +216,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$degrees.coverage" NAME="degrees Coverage Results" MODIFIED="1620276044309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/2021/degrees" />
+    <SUITE FILE_PATH="coverage/ai50$tictactoe.coverage" NAME="tictactoe Coverage Results" MODIFIED="1620368083730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/2021/tictactoe" />
   </component>
 </project>
