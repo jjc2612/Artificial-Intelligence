@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccf54bb9-861d-4d96-9146-e228e87a407d" name="Default Changelist" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 113b3ca6">
-      <change afterPath="$PROJECT_DIR$/projects/2021/tictactoe/OpenSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/2021/tictactoe/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/2021/tictactoe/runner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/2021/tictactoe/tictactoe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/2021/knights/logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/2021/knights/puzzle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/projects/2021/tictactoe/runner.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projects/2021/knights" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -139,6 +139,8 @@
       <workItem from="1620262345306" duration="10604000" />
       <workItem from="1620280921720" duration="2073000" />
       <workItem from="1620364789951" duration="5219000" />
+      <workItem from="1620605510104" duration="1282000" />
+      <workItem from="1628366624563" duration="103000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 113b3ca6">
       <created>1620266598430</created>
@@ -202,7 +204,7 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/projects/2021/tictactoe/tictactoe.py</url>
           <line>132</line>
-          <option name="timeStamp" value="1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -216,6 +218,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$degrees.coverage" NAME="degrees Coverage Results" MODIFIED="1620276044309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/2021/degrees" />
-    <SUITE FILE_PATH="coverage/ai50$tictactoe.coverage" NAME="tictactoe Coverage Results" MODIFIED="1620368083730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/2021/tictactoe" />
+    <SUITE FILE_PATH="coverage/ai50$tictactoe.coverage" NAME="tictactoe Coverage Results" MODIFIED="1620605528074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projects/2021/tictactoe" />
   </component>
 </project>
